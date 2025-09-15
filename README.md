@@ -24,7 +24,7 @@
 📌 Full-stack frameworks (React, Node.js, Django)  
 📌 Cloud basics (AWS / Azure) for deployment and scalability  
 📌 Mobile development (Android/iOS) to broaden project reach  
-📌 Writing more efficient, maintainable code — not just making it work, but making it **better**  
+📌 Writing more efficient, maintainable code, not just making it work, but making it **better**  
 
 ---
 
