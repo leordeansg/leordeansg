@@ -1,15 +1,15 @@
 # Gabe | Software Engineering Student
 
-> “Build it, break it, improve it.” – My approach to both code and cars.  
+> “Build it, break it, improve it.” | My approach to both code and cars.  
 
 ---
 
 ## 👨‍💻 About Me
-- 🎓 2nd-year Software Engineering student based in the UK  
+- 🎓 2nd year Software Engineering student based in the UK  
 - 💻 I enjoy building things from the ground up: from **desktop apps → mobile → web**  
 - 🔧 Strong foundation in **Python, JavaScript, HTML/CSS, SQL (MySQL/Oracle)**  
-- ☕ Coffee-driven, hands-on learner who enjoys solving problems by **tinkering, testing, and optimizing**  
-- 🚗 Outside the laptop, I’m deep into performance car tuning — the same **“optimize & push limits”** mindset applies to my coding projects  
+- ☕ Coffee driven, hands on learner who enjoys solving problems by **tinkering, testing, and optimizing**  
+- 🚗 Outside the laptop, I’m deep into performance car tuning, the same **“optimize & push limits”** mindset applies to my coding projects  
 
 ---
 
@@ -21,10 +21,10 @@
 ---
 
 ## 🌱 Learning Goals
-- Full-stack frameworks (React, Node.js, Django)  
+- Full stack frameworks (React, Node.js, Django)  
 - Cloud basics (AWS / Azure) for deployment and scalability  
 - Mobile development (Android/iOS) to broaden project reach  
-- Writing more efficient, maintainable code — not just making it work, but making it **better**  
+- Writing more efficient, maintainable code, not just making it work, but making it **better**  
 
 ---
 
@@ -36,9 +36,9 @@
 ---
 
 ## 🎯 Beyond Code
-- 🚗 **Cars** – my Ford Kuga is my testbed for problem-solving: upgrading, tuning, and refining performance  
-- ☕ **Coffee** – best debugging tool  
-- 🛠️ **Tinkering** – whether hardware or software, I like to break things down, understand them, and rebuild better  
+- 🚗 **Cars** | my Ford is my testbed for problem-solving: upgrading, tuning, and refining performance  
+- ☕ **Coffee** | best debugging tool  
+- 🛠️ **Tinkering** | whether hardware or software, I like to break things down, understand them, and rebuild better  
 - 🌍 Always curious, always learning  
 
 ---
