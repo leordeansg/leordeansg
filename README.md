@@ -1,4 +1,4 @@
-# Gabe | Software Engineering Student
+# 🚀 Gabe | Software Engineering Student
 
 > “Build it, break it, improve it.” | My approach to both code and cars.  
 
