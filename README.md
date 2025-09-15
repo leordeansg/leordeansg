@@ -30,7 +30,7 @@
 
 ## 📊 GitHub Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=leordeansg&show_icons=true&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=default&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=default&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leordeansg&layout=compact&hide_border=true)  
 
 ---
