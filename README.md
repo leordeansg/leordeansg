@@ -1,6 +1,6 @@
 # 🚀 Gabe | Software Engineering Student
 
-> “Build it, break it, improve it.” | My approach to both code and cars.  
+> “Build it, break it, improve it.” | My approach to both code and cars.
 
 ---
 
@@ -30,15 +30,15 @@
 
 ## 📊 GitHub Activity
 ![Stats](https://github-readme-stats.vercel.app/api?username=leordeansg&show_icons=true&hide_border=true)  
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=default&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leordeansg&layout=compact&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=default&hide_border=true)  
 
 ---
 
 ## 🎯 Beyond Code
-- 🚗 **Cars** | my Ford is my testbed for problem-solving, upgrading, tuning, and refining performance  
-- ☕ **Coffee** | best debugging tool  
-- 🛠️ **Tinkering** | whether hardware or software, I like to break things down, understand them, and rebuild better  
+- 🚗 **Cars** - my Ford Kuga is my real-world testbed for problem-solving, upgrading, tuning, and refining performance  
+- ☕ **Coffee** - best debugging tool  
+- 🛠️ **Tinkering** - whether hardware or software, I like to break things down, understand them, and rebuild better  
 - 🌍 Always curious, always learning  
 
 ---
