@@ -17,8 +17,8 @@
 ---
 
 ### 📈 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=YOURUSERNAME&theme=default&hide_border=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=leordeansg&show_icons=true&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=leordeansg&theme=default&hide_border=true)  
 
 ---
 
