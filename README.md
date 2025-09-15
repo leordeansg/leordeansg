@@ -29,8 +29,10 @@
 ---
 
 ## 📊 GitHub Activity
-![Stats](https://github-readme-stats.vercel.app/api?username=leordeansg&show_icons=true&hide_border=true&theme=dark)
-![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=dark&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leordeansg&show_icons=true&hide_border=true&theme=dark" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=dark&hide_border=true" />
+</p>
 
 ---
 
