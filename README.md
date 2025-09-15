@@ -1,6 +1,6 @@
-# 🚀 Gabe | Software Engineering Student
-
-> **“Build it, break it, improve it.” | My approach to both code and cars.**  
+<p align="center">
+  <img src="simplebanner.png" alt="Banner" />
+</p>
 
 ---
 
