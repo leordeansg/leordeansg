@@ -14,7 +14,7 @@
 ---
 
 ## ⚡ Current Projects
-- 📝 **Translator App** – built with a friend, starting on desktop and scaling to **Android/iOS**  
+- 📝 **Translator App** | built with a friend, starting on desktop and scaling to **Android/iOS**  
 - 🧪 Side experiments with clean UI/UX design, API integrations, and small automation tools  
 - 📂 Actively building a portfolio of projects to showcase practical software engineering skills  
 
@@ -36,7 +36,7 @@
 ---
 
 ## 🎯 Beyond Code
-- 🚗 **Cars** | my Ford is my testbed for problem-solving: upgrading, tuning, and refining performance  
+- 🚗 **Cars** | my Ford is my testbed for problem-solving, upgrading, tuning, and refining performance  
 - ☕ **Coffee** | best debugging tool  
 - 🛠️ **Tinkering** | whether hardware or software, I like to break things down, understand them, and rebuild better  
 - 🌍 Always curious, always learning  
