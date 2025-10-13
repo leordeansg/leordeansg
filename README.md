@@ -13,7 +13,8 @@ I learn best by getting hands-on, breaking things, and making them better.
 ---
 
 ## ⚡ What I’m Working On
-📝 **Translator App** – building with a friend, starting as a desktop tool and expanding to **Android/iOS**.  
+📝 **Translator App** - building with a friend, starting as a desktop tool and expanding to **Android/iOS**.
+🧾 **Service Log Tracker** - a web app to log and manage vehicle services, maintenance, and performance records.
 🧠 Small side projects around clean UI, API integrations, and automation tools.  
 📁 Gradually building a portfolio that shows what I can *actually* do, not just what I’ve studied.
 
@@ -36,9 +37,9 @@ I learn best by getting hands-on, breaking things, and making them better.
 ---
 
 ## 🎯 Outside Code
-🏎️ **Cars** – my version of engineering in the real world  
-☕ **Coffee** – essential fuel for debugging  
-🛠️ **Tinkering** – always figuring out how to make things run better  
+🏎️ **Cars** - my version of engineering in the real world  
+☕ **Coffee** - essential fuel for debugging  
+🛠️ **Tinkering** - always figuring out how to make things run better  
 🌍 Always learning, always improving.
 
 ---
