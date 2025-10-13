@@ -23,7 +23,7 @@ I learn best by getting hands-on, breaking things, and making them better.
 📌 Full-stack frameworks → **React, Node.js, Django**  
 📌 Cloud & deployment → **AWS / Azure**  
 📌 Mobile dev → Android & iOS  
-📌 Writing cleaner, more efficient code — not just “it works,” but “it works *well*.”
+📌 Writing cleaner, more efficient code, not just “it works,” but “it works *well*.”
 
 ---
 
