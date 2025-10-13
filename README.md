@@ -5,11 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
-Hey, I’m Gabe — a 2nd-year Software Engineering student in the UK.  
-I like building real stuff that actually works — from desktop apps to mobile and web.  
+Hey, I’m Gabe, a 2nd-year Software Engineering student in the UK.  
+I like building real stuff that actually works, from desktop apps to mobile and web.  
 Strong with **Python, JavaScript, HTML/CSS, and SQL (MySQL & Oracle)**.  
 I learn best by getting hands-on, breaking things, and making them better.  
-When I’m not coding, I’m under the hood of my **Ford Kuga**, tuning and upgrading for performance.
 
 ---
 
