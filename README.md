@@ -5,30 +5,30 @@
 ---
 
 ## 👨‍💻 About Me
-🎓 2nd-year Software Engineering student based in the UK  
-💻 I enjoy building things from the ground up: from **desktop apps → mobile → web**  
-🔧 Strong foundation in **Python, JavaScript, HTML/CSS, SQL (MySQL/Oracle)**  
-☕ Coffee-driven, hands-on learner who enjoys solving problems by **tinkering, testing, and optimizing**  
-🚗 Outside the laptop, my **Ford Kuga is my real-world testbed** for problem-solving, upgrading, tuning, and refining performance  
+Hey, I’m Gabe — a 2nd-year Software Engineering student in the UK.  
+I like building real stuff that actually works — from desktop apps to mobile and web.  
+Strong with **Python, JavaScript, HTML/CSS, and SQL (MySQL & Oracle)**.  
+I learn best by getting hands-on, breaking things, and making them better.  
+When I’m not coding, I’m under the hood of my **Ford Kuga**, tuning and upgrading for performance.
 
 ---
 
-## ⚡ Current Projects
-📝 **Translator App** → built with a friend, starting on desktop and scaling to **Android/iOS**  
-🧪 Side experiments with clean UI/UX design, API integrations, and small automation tools  
-📂 Actively building a portfolio of projects to showcase practical software engineering skills  
+## ⚡ What I’m Working On
+📝 **Translator App** – building with a friend, starting as a desktop tool and expanding to **Android/iOS**.  
+🧠 Small side projects around clean UI, API integrations, and automation tools.  
+📁 Gradually building a portfolio that shows what I can *actually* do, not just what I’ve studied.
 
 ---
 
-## 🌱 Learning Goals
-📌 Full-stack frameworks (React, Node.js, Django)  
-📌 Cloud basics (AWS / Azure) for deployment and scalability  
-📌 Mobile development (Android/iOS) to broaden project reach  
-📌 Writing more efficient, maintainable code, not just making it work, but making it **better**  
+## 🌱 Currently Learning
+📌 Full-stack frameworks → **React, Node.js, Django**  
+📌 Cloud & deployment → **AWS / Azure**  
+📌 Mobile dev → Android & iOS  
+📌 Writing cleaner, more efficient code — not just “it works,” but “it works *well*.”
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=leordeansg&show_icons=true&hide_border=true&theme=dark" />
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=leordeansg&theme=dark&hide_border=true" />
@@ -36,13 +36,13 @@
 
 ---
 
-## 🎯 Beyond Code
-🏎️ **Cars** → applying engineering to the real world by tuning, upgrading, and optimizing performance  
-☕ **Coffee** → the best debugging tool  
-🛠️ **Tinkering** → I like to break things down, understand them, and rebuild better  
-🌍 Always curious, always learning  
+## 🎯 Outside Code
+🏎️ **Cars** – my version of engineering in the real world  
+☕ **Coffee** – essential fuel for debugging  
+🛠️ **Tinkering** – always figuring out how to make things run better  
+🌍 Always learning, always improving.
 
 ---
 
-💡 Always open to collaboration, feedback, and internship opportunities.  
+💬 Open to collaborations, feedback, and internship opportunities.  
 Check out my pinned projects below 👇
