@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Gabe+(Leordean+S+G);Building+real+software;Java+%7C+Kotlin+%7C+Python+%7C+C%2B%2B;Full+stack+%7C+Desktop+%7C+Mobile;Clean+code+over+clever+code" />
+</p>
 
-<!--
-**leordeansg/leordeansg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ./about_me
+```bash
+> whoami
+Gabe - Software Engineering student (UK)
 
-Here are some ideas to get you started:
+> focus
+Building practical apps with clean structure and solid backend logic
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> stack
+Java / Kotlin / Python / C++ / PHP / JavaScript / HTML / CSS / SQL
+
+> current
+Garage Manager (JavaFX + SQLite)
+Translator App (expanding to mobile)
+
+> mindset
+Keep it simple. Make it work. Then make it better.
+
+> projects
+Garage Manager (GGM) - Desktop app, tracking cars, services, expenses, and reminders
+Translator App (FTFY) - Desktop app, moving toward mobile platforms
+
+> contact
+Open to internships, collaborations, and feedback.
+```
